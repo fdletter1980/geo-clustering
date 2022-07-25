@@ -1,0 +1,101 @@
+﻿status,price,bed,bath,acre_lot,full_address,street,city,state,zip_code,house_size,sold_date
+for_sale,3600000,3,3,,"350 E 81st St Apt 3, New York City, NY, 10028",350 E 81st St Apt 3,New York City,New York,10028,2338,
+for_sale,22000000,5,6,,"25 N Moore St Unit 16ABC, New York City, NY, 10013",25 N Moore St Unit 16ABC,New York City,New York,10013,7020,10/6/2015
+for_sale,210000,1,1,,"5900 Arlington Ave Apt 2M, New York City, NY, 10471",5900 Arlington Ave Apt 2M,New York City,New York,10471,,
+for_sale,775000,1,2,,"50 Sutton Pl S Apt 8K, New York City, NY, 10022",50 Sutton Pl S Apt 8K,New York City,New York,10022,,
+for_sale,749000,1,1,,"215 E 96th St Unit 37F, New York City, NY, 10128",215 E 96th St Unit 37F,New York City,New York,10128,,
+for_sale,300000,,1,,"New York City, NY, 10452",,New York City,New York,10452,,
+for_sale,899000,1,2,,"105 W 70th St Apt 1R, New York City, NY, 10023",105 W 70th St Apt 1R,New York City,New York,10023,,
+for_sale,1250000,1,1,,"270 W 17th St Apt 12A, New York City, NY, 10011",270 W 17th St Apt 12A,New York City,New York,10011,568,9/19/1994
+for_sale,6675000,5,5,,"122 Congress St, New York City, NY, 11201",122 Congress St,New York City,New York,11201,,3/2/2021
+for_sale,395000,,1,0.29,"430 E 56th St Apt 1C, New York City, NY, 10022",430 E 56th St Apt 1C,New York City,New York,10022,650,
+for_sale,8625000,3,3,,"40 Bond St Apt 6A, New York City, NY, 10012",40 Bond St Apt 6A,New York City,New York,10012,2617,3/12/2008
+for_sale,1775000,2,2,,"303 W 29th St Apt A, New York City, NY, 10001",303 W 29th St Apt A,New York City,New York,10001,1200,
+for_sale,1550000,,,,"150 E 56th St Unit 1A /B, New York City, NY, 10022",150 E 56th St Unit 1A /B,New York City,New York,10022,1318,
+for_sale,3500000,5,4,0.03,"116 Willoughby Ave, New York City, NY, 11205",116 Willoughby Ave,New York City,New York,11205,3224,9/28/2017
+for_sale,1625000,3,2,,"885 W End Ave Apt 12D, New York City, NY, 10025",885 W End Ave Apt 12D,New York City,New York,10025,,4/4/2005
+for_sale,1100000,2,1,,"300 E 40th St Apt 21S, New York City, NY, 10016",300 E 40th St Apt 21S,New York City,New York,10016,900,6/16/2010
+for_sale,7850000,8,8,0.05,"8 W 71st St, New York City, NY, 10023",8 W 71st St,New York City,New York,10023,6100,
+for_sale,1199000,1,1,,"121 E 23rd St Apt 20C, New York City, NY, 10010",121 E 23rd St Apt 20C,New York City,New York,10010,724,7/1/2016
+for_sale,865000,,1,,"101 E 2nd St Apt 4C, New York City, NY, 10009",101 E 2nd St Apt 4C,New York City,New York,10009,450,
+for_sale,899000,2,1,,"400 E 77th St Apt 7E, New York City, NY, 10075",400 E 77th St Apt 7E,New York City,New York,10075,,6/30/2015
+for_sale,359000,1,1,,"345 Webster Ave Apt 5I, New York City, NY, 11230",345 Webster Ave Apt 5I,New York City,New York,11230,,6/26/2017
+for_sale,469000,,1,,"191 Willoughby St Apt 7F, New York City, NY, 11201",191 Willoughby St Apt 7F,New York City,New York,11201,,
+for_sale,526000,2,1,,"105 Bennett Ave Unit 44B, New York City, NY, 10033",105 Bennett Ave Unit 44B,New York City,New York,10033,741,
+for_sale,1295000,1,1,,"47-49 King St Unit 8, New York City, NY, 10014",47-49 King St Unit 8,New York City,New York,10014,775,
+for_sale,850000,1,1,0.47,"345 E 81st St Apt 2N, New York City, NY, 10028",345 E 81st St Apt 2N,New York City,New York,10028,,
+for_sale,1375000,1,1,,"808 Broadway Apt 3K, New York City, NY, 10003",808 Broadway Apt 3K,New York City,New York,10003,,4/27/2016
+for_sale,1750000,3,2,,"63 E 9th St Apt 12H, New York City, NY, 10003",63 E 9th St Apt 12H,New York City,New York,10003,,
+for_sale,950000,1,1,,"301 E 79th St Apt 31C, New York City, NY, 10075",301 E 79th St Apt 31C,New York City,New York,10075,657,4/4/2008
+for_sale,3150000,2,3,,"15 Renwick St Apt 601, New York City, NY, 10013",15 Renwick St Apt 601,New York City,New York,10013,1481,3/4/2016
+for_sale,945000,1,1,0.17,"17 W 67th St Apt 3F, New York City, NY, 10023",17 W 67th St Apt 3F,New York City,New York,10023,700,11/15/2014
+for_sale,4850000,4,4,,"400 5th Ave Unit 39FGH, New York City, NY, 10018",400 5th Ave Unit 39FGH,New York City,New York,10018,2588,
+for_sale,4475000,3,3,0.06,"251 W 91st St Unit 10B, New York City, NY, 10024",251 W 91st St Unit 10B,New York City,New York,10024,1868,
+for_sale,753000,1,1,,"111 Montgomery St Apt 5B, New York City, NY, 11225",111 Montgomery St Apt 5B,New York City,New York,11225,718,
+for_sale,2250000,3,3,,"137 4th Ave Unit 3, New York City, NY, 11217",137 4th Ave Unit 3,New York City,New York,11217,1764,
+for_sale,1595000,2,2,,"98 Front St Apt 6R, New York City, NY, 11201",98 Front St Apt 6R,New York City,New York,11201,904,
+for_sale,1595000,1,1,,"169 Huron St Ph A, New York City, NY, 11222",169 Huron St Ph A,New York City,New York,11222,707,
+for_sale,758000,2,1,,"294 Smith St Unit 1, New York City, NY, 11231",294 Smith St Unit 1,New York City,New York,11231,890,4/24/1986
+for_sale,1995000,1,3,,"260 W Broadway Units 3 & 4F, New York City, NY, 10013",260 W Broadway Units 3 & 4F,New York City,New York,10013,1270,
+for_sale,475000,1,1,,"120 E 83rd St Apt 2B, New York City, NY, 10028",120 E 83rd St Apt 2B,New York City,New York,10028,,1/26/2017
+for_sale,3150000,3,2,,"139 E 66th St Apt 5S, New York City, NY, 10065",139 E 66th St Apt 5S,New York City,New York,10065,,
+for_sale,3895000,1,2,0.09,"119 W 22nd St Apt 2, New York City, NY, 10011",119 W 22nd St Apt 2,New York City,New York,10011,4400,
+for_sale,2490000,3,3,,"425 W 53rd St Apt 418, New York City, NY, 10019",425 W 53rd St Apt 418,New York City,New York,10019,,12/28/2011
+for_sale,3250000,3,2,,"10 Bleecker St Unit TH1, New York City, NY, 10012",10 Bleecker St Unit TH1,New York City,New York,10012,2000,7/3/2013
+for_sale,3500000,2,3,,"39 W 23rd St Apt 7A, New York City, NY, 10010",39 W 23rd St Apt 7A,New York City,New York,10010,1607,
+for_sale,8500000,6,5,0.04,"New York City, NY, 10024",,New York City,New York,10024,5120,7/24/2008
+for_sale,445000,,1,,"408 W 57th St Apt 9G, New York City, NY, 10019",408 W 57th St Apt 9G,New York City,New York,10019,,9/5/2013
+for_sale,785000,2,1,,"158-18 Riverside Dr W Unit 6J, New York City, NY, 10032",158-18 Riverside Dr W Unit 6J,New York City,New York,10032,1039,
+for_sale,369000,2,2,,"33-45 92nd St Unit 3J, New York City, NY, 11369",33-45 92nd St Unit 3J,New York City,New York,11369,,
+for_sale,1599000,8,4,0.05,"35-20 31st St, New York City, NY, 11106",35-20 31st St,New York City,New York,11106,2775,
+for_sale,1675000,1,1,0.06,"79 Barrow St Apt 6C, New York City, NY, 10014",79 Barrow St Apt 6C,New York City,New York,10014,,
+for_sale,1875000,2,2,,"50 Park Ave # B, New York City, NY, 10016",50 Park Ave # B,New York City,New York,10016,,
+for_sale,765000,1,1,0.11,"26-14 28th St Unit 4B, New York City, NY, 11102",26-14 28th St Unit 4B,New York City,New York,11102,601,7/17/2017
+for_sale,2545000,2,2,0.03,"185 Grand St Apt 4D, New York City, NY, 10013",185 Grand St Apt 4D,New York City,New York,10013,1143,
+for_sale,2749000,4,5,,"5 Hampton Pl, New York City, NY, 11213",5 Hampton Pl,New York City,New York,11213,3396,11/27/2018
+for_sale,595000,1,1,,"25 Tudor City Pl Apt 1111, New York City, NY, 10017",25 Tudor City Pl Apt 1111,New York City,New York,10017,,10/5/2015
+for_sale,625000,1,1,,"317 E 18th St Apt 6A, New York City, NY, 10003",317 E 18th St Apt 6A,New York City,New York,10003,,7/9/2008
+for_sale,735000,1,1,0.05,"299 Henry Unit D1-4th St # #flr, New York City, NY, 11201",299 Henry Unit D1-4th St # #flr,New York City,New York,11201,,
+for_sale,395000,1,1,,"854 W 181st St Apt 3H, New York City, NY, 10033",854 W 181st St Apt 3H,New York City,New York,10033,,9/29/2016
+for_sale,788000,1,1,,"170 E 87th St Unit E16, New York City, NY, 10128",170 E 87th St Unit E16,New York City,New York,10128,689,11/17/1999
+for_sale,860000,1,1,,"5-19 Borden Ave Unit 3F, New York City, NY, 11101",5-19 Borden Ave Unit 3F,New York City,New York,11101,689,11/2/2016
+for_sale,4100000,3,3,0.16,"32 W 18th St Apt 2A, New York City, NY, 10011",32 W 18th St Apt 2A,New York City,New York,10011,3007,7/25/2012
+for_sale,1695000,3,2,3.51,"1623-1641 3rd Ave Unit 35H, New York City, NY, 10128",1623-1641 3rd Ave Unit 35H,New York City,New York,10128,1162,
+for_sale,725000,2,1,,"64 Macdougal St Apt 8, New York City, NY, 10012",64 Macdougal St Apt 8,New York City,New York,10012,,2/6/2015
+for_sale,479000,1,1,,"345 E 77th St Apt 2D, New York City, NY, 10075",345 E 77th St Apt 2D,New York City,New York,10075,,5/2/2018
+for_sale,12995000,4,4,0.02,"40 Leroy St, New York City, NY, 10014",40 Leroy St,New York City,New York,10014,3650,7/27/2018
+for_sale,389000,1,1,,"77 Park Ter E Apt D16, New York City, NY, 10034",77 Park Ter E Apt D16,New York City,New York,10034,,
+for_sale,775000,1,1,,"135 Division St Apt 7B, New York City, NY, 10002",135 Division St Apt 7B,New York City,New York,10002,,11/16/2009
+for_sale,1850000,,,0.04,"New York City, NY, 11368",,New York City,New York,11368,3350,
+for_sale,6250000,3,3,0.02,"58 Downing St, New York City, NY, 10014",58 Downing St,New York City,New York,10014,2661,11/3/2017
+for_sale,570000,,1,,"111 Montgomery St Apt 4D, New York City, NY, 11225",111 Montgomery St Apt 4D,New York City,New York,11225,480,
+for_sale,7360000,4,4,,"66 Reade St Unit 3, New York City, NY, 10007",66 Reade St Unit 3,New York City,New York,10007,3215,
+for_sale,3750000,4,3,,"545 W End Ave Apt 16A, New York City, NY, 10024",545 W End Ave Apt 16A,New York City,New York,10024,,
+for_sale,895000,1,1,,"306 Gold St Apt 10F, New York City, NY, 11201",306 Gold St Apt 10F,New York City,New York,11201,779,3/2/2010
+for_sale,1075000,2,2,,"301 E 22nd St Unit 6UT, New York City, NY, 10010",301 E 22nd St Unit 6UT,New York City,New York,10010,,
+for_sale,499000,,1,,"301 E 22nd St Apt 11U, New York City, NY, 10010",301 E 22nd St Apt 11U,New York City,New York,10010,,10/28/2014
+for_sale,569000,2,2,,"273 Albany Ave Apt 2A, New York City, NY, 11213",273 Albany Ave Apt 2A,New York City,New York,11213,606,1/29/2014
+for_sale,1025000,2,1,,"11 Schermerhorn St Apt 1WF, New York City, NY, 11201",11 Schermerhorn St Apt 1WF,New York City,New York,11201,,1/19/2010
+for_sale,1149999,2,1,,"365 W 20th St Apt 14E, New York City, NY, 10011",365 W 20th St Apt 14E,New York City,New York,10011,,10/13/2017
+for_sale,1900000,2,3,,"30 West St Apt 10B, New York City, NY, 10004",30 West St Apt 10B,New York City,New York,10004,1404,
+for_sale,795000,1,1,,"245 E 54th St Apt 3S, New York City, NY, 10022",245 E 54th St Apt 3S,New York City,New York,10022,750,11/4/2016
+for_sale,325000,1,1,,"65-15 38th Ave Unit 3J, New York City, NY, 11377",65-15 38th Ave Unit 3J,New York City,New York,11377,825,
+for_sale,5175000,5,5,0.04,"212 E 32nd St, New York City, NY, 10016",212 E 32nd St,New York City,New York,10016,4080,12/26/1996
+for_sale,2980000,4,4,,"669 Washington Ave, New York City, NY, 11238",669 Washington Ave,New York City,New York,11238,,10/6/2000
+for_sale,3195000,2,3,,"425 W 50th St Apt 12H, New York City, NY, 10019",425 W 50th St Apt 12H,New York City,New York,10019,1851,5/2/2016
+for_sale,8995000,6,4,0.04,"27 Bethune St, New York City, NY, 10014",27 Bethune St,New York City,New York,10014,3520,
+for_sale,1250000,4,4,,"462 E 138th St, New York City, NY, 10454",462 E 138th St,New York City,New York,10454,,
+for_sale,444999,2,1,,"65-15 38th Ave Unit 6W, New York City, NY, 11377",65-15 38th Ave Unit 6W,New York City,New York,11377,950,7/25/2014
+for_sale,3000000,4,3,0.53,"211 E 18th St Unit 2RST, New York City, NY, 10003",211 E 18th St Unit 2RST,New York City,New York,10003,2150,3/13/2014
+for_sale,17500000,5,6,,"114 E 65th St, New York City, NY, 10065",114 E 65th St,New York City,New York,10065,8000,5/30/2007
+for_sale,550000,1,1,0.05,"682 Hancock St Unit 2B, New York City, NY, 11233",682 Hancock St Unit 2B,New York City,New York,11233,510,
+for_sale,550000,1,1,0.05,"682 Hancock St Unit 3B, New York City, NY, 11233",682 Hancock St Unit 3B,New York City,New York,11233,510,
+for_sale,550000,1,1,0.05,"682 Hancock St Unit 2A, New York City, NY, 11233",682 Hancock St Unit 2A,New York City,New York,11233,531,
+for_sale,550000,1,1,0.05,"682 Hancock St Unit 3A, New York City, NY, 11233",682 Hancock St Unit 3A,New York City,New York,11233,531,
+for_sale,549000,1,1,0.04,"479 Lexington Ave Unit 2A, New York City, NY, 11221",479 Lexington Ave Unit 2A,New York City,New York,11221,524,
+for_sale,580000,,1,0.06,"145 Sullivan St Apt 4D, New York City, NY, 10012",145 Sullivan St Apt 4D,New York City,New York,10012,,9/17/2013
+for_sale,799000,1,1,,"128 W 70th St Apt 9, New York City, NY, 10023",128 W 70th St Apt 9,New York City,New York,10023,,
+for_sale,1075000,1,1,,"145 E 15th St Apt 15B, New York City, NY, 10003",145 E 15th St Apt 15B,New York City,New York,10003,,
+for_sale,930000,2,2,,"300 W 135th St Apt 5E, New York City, NY, 10030",300 W 135th St Apt 5E,New York City,New York,10030,987,7/27/2018
+for_sale,2965000,2,2,,"33 Park Unit 15B, New York City, NY, 10038",33 Park Unit 15B,New York City,New York,10038,1346,
+for_sale,5375000,3,3,,"New York City, NY, 10010",,New York City,New York,10010,2432,
